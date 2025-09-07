@@ -16,7 +16,7 @@ It demonstrates SQL skills through data exploration, cleaning, and analysis of a
 - Query Optimization
 
 ## 📂 Files in Repository
-- `project_queries.sql` – SQL scripts used in the project.
+- `project_queries.sql` – SQL scripts used in the project (Chinook database).
 - `analysis_report.md` – Summary of findings and insights.
 - `dataset/` – Sample dataset (if shareable).
 
